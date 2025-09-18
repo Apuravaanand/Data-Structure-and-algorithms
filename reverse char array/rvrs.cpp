@@ -10,7 +10,6 @@ void rvrsearr(char word[], int n)
         char temp = word[s];
         word[s] = word[e];
         word[e] = temp;
-
         s++;
         e--;
     }
