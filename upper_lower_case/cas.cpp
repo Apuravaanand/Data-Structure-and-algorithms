@@ -36,7 +36,6 @@ void tolower(char word[], int n)
 int main()
 {
     char word[] = "This_word_is_lower_case";
-
     tolower(word, strlen(word));
     cout << word;
 

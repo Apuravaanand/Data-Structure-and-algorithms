@@ -2,7 +2,6 @@
 #include <vector>
 using namespace std;
 int main(){
-
     int target = 9;
 
     vector<int> nums = {2,7,11,15};
