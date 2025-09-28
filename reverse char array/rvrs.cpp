@@ -20,4 +20,6 @@ int main()
     rvrsearr(word, strlen(word));
 
     cout << word;
+    
+    return 0;
 }
