@@ -5,5 +5,3 @@
 24/09/2025 - Day 5 : Binary Search. <br>
 28/09/2025 - Day 6 : Merge Sort. <br>
 30/09/2025 - Day 7 : Sentinal Search. <br>
-
-
